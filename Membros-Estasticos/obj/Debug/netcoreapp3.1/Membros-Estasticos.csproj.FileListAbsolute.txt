@@ -1,0 +1,11 @@
+C:\temp\C#\Membros-Estasticos\Membros-Estasticos\bin\Debug\netcoreapp3.1\Membros-Estasticos.exe
+C:\temp\C#\Membros-Estasticos\Membros-Estasticos\bin\Debug\netcoreapp3.1\Membros-Estasticos.deps.json
+C:\temp\C#\Membros-Estasticos\Membros-Estasticos\bin\Debug\netcoreapp3.1\Membros-Estasticos.runtimeconfig.json
+C:\temp\C#\Membros-Estasticos\Membros-Estasticos\bin\Debug\netcoreapp3.1\Membros-Estasticos.runtimeconfig.dev.json
+C:\temp\C#\Membros-Estasticos\Membros-Estasticos\bin\Debug\netcoreapp3.1\Membros-Estasticos.dll
+C:\temp\C#\Membros-Estasticos\Membros-Estasticos\bin\Debug\netcoreapp3.1\Membros-Estasticos.pdb
+C:\temp\C#\Membros-Estasticos\Membros-Estasticos\obj\Debug\netcoreapp3.1\Membros-Estasticos.csprojAssemblyReference.cache
+C:\temp\C#\Membros-Estasticos\Membros-Estasticos\obj\Debug\netcoreapp3.1\Membros-Estasticos.AssemblyInfoInputs.cache
+C:\temp\C#\Membros-Estasticos\Membros-Estasticos\obj\Debug\netcoreapp3.1\Membros-Estasticos.AssemblyInfo.cs
+C:\temp\C#\Membros-Estasticos\Membros-Estasticos\obj\Debug\netcoreapp3.1\Membros-Estasticos.dll
+C:\temp\C#\Membros-Estasticos\Membros-Estasticos\obj\Debug\netcoreapp3.1\Membros-Estasticos.pdb
